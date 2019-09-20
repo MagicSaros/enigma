@@ -10,4 +10,4 @@ Rotors: 3, reflector: yes, plugboard: no.
     ?POS - current positions of rotors
     ?EXIT - exit program
 
-Developed by Atrem Matveev
+Developed by Artem Matveev
